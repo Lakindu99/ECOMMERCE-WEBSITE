@@ -14,7 +14,7 @@ A responsive front-end website for a fashion e-commerce platform, built using HT
 ![Image](https://github.com/user-attachments/assets/8fcb96bd-c5e4-4b71-a57e-bc28b818163a)
 
 # My Account
-![Image](https://github.com/user-attachments/assets/4082ef15-d58a-4508-bd08-35073930cd26)
+![Image](https://github.com/user-attachments/assets/75c23e3b-a47d-4dce-830c-612e8a12e21e)
 
 # Contact Us
 ![Image](https://github.com/user-attachments/assets/65dce67f-8fbf-4c61-be78-52f374ee0c6f)
